@@ -1,0 +1,58 @@
+General Style: 
+Color Scheme-
+. Bck color:
+. Heading Color:
+. Text Color:
+. Collumn Colors 
+. Link/hover colors
+Padding/Margins- 
+Font Style & size-
+Collumns- 
+Buttons- 
+Imgs- 
+_____________________
+NAV BAR
+_____________________
+<Section Class= home>
+*displays on MAIN*
+
+	<Div class=abt>
+		- header: About us ....
+		- p: Next LvL Mission
+		- img: 
+	</Div>
+
+	<Div class= contact>
+		- Sub-header: Contact us ...
+	 	- href: Email adress/phone number  
+	</Div>
+</Section>
+______________________
+<Section Class="account">
+*new page linked to MAIN*
+<h1>Welcome!</h1>	
+
+<Div class= Profile> 
+*add & edit*
+	<h2>Edit Profile</h2>
+	<ul>
+		Name: 
+		DOB: 
+		
+	<ul>
+</Div>
+
+	<Div class=sidebar>
+		<h2>Medical Information </h2>
+		<ul>
+	 		Reminders
+	 		Diagnoses
+	 		Medications
+		</ul>	
+	</Div>
+</Section>
+________________________
+<Section>
+
+Local Clinics & Specialists 
+Find local clinics and specialists near you! 
